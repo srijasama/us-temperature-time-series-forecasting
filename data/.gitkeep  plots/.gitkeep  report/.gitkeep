@@ -1,0 +1,11 @@
+us-temperature-time-series-forecasting/
+│
+├── data/
+│   └── .gitkeep
+├── plots/
+│   └── .gitkeep
+├── report/
+│   └── .gitkeep
+├── scripts/
+│   └── .gitkeep
+└── README.md
